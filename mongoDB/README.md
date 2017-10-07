@@ -10,3 +10,5 @@
 [Mongoose](http://mongoosejs.com/docs/)
 
 [Nodejs e MongoDB – Introdução ao Mongoose](http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/)
+
+[Modulation of dbConnection](https://stackoverflow.com/questions/32906467/mongoose-multiple-connections)
