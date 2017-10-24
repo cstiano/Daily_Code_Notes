@@ -25,3 +25,5 @@
 [Add logo to sidebar](https://stackoverflow.com/questions/28358483/bootstrap-how-to-add-a-logo-to-navbar-class)
 
 [BOOTSTRAP SIDEBAR](https://bootstrapious.com/p/bootstrap-sidebar)
+
+[Plotly](https://plot.ly/javascript/)
