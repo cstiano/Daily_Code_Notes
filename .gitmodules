@@ -1,0 +1,3 @@
+[submodule "TensorFlow-Study"]
+	path = TensorFlow-Study
+	url = https://github.com/cstiano/TensorFlow-Study.git
